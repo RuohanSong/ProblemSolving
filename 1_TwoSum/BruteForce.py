@@ -1,3 +1,6 @@
+# time complexity: O(n^2)
+# space complexity: O(1)
+
 from typing import List
 
 
@@ -13,4 +16,4 @@ class Solution:
         return []
 
 input1 = Solution()
-print(input1.twoSum([3, 5, 1, 4, -8], 5))
+print(input1.twoSum([3, 5, 1, 4, -8], 0))
