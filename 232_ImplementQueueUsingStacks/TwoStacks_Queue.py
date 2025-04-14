@@ -1,3 +1,5 @@
+# time complexity: O(1)
+
 class MyQueue:
 
     def __init__(self):
